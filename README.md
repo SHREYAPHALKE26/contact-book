@@ -75,8 +75,11 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 For questions or feedback, feel free to reach out:
+
 Name: Shreya Phalke
+
 Email: phalkeshreya00@gmail.com
+
 GitHub: SHREYAPHALKE26
 
 ---
